@@ -80,5 +80,6 @@ A simple, production-ready Retrieval-Augmented Generation (RAG) pipeline for doc
     ```bash
     export OPENAI_API_KEY=your-key-here
 The app will retrieve relevant document chunks and summarize the answer for you.
+<img width="863" height="818" alt="Screenshot 2025-09-07 122021" src="https://github.com/user-attachments/assets/c21aeb10-4b5f-4da0-a61b-707429deb23c" />
 
 
